@@ -7,9 +7,9 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.15.2",
-    "multer":"",
-    "png-to-ico":""
+    "express": "^4.16.3",
+    "multer": "",
+    "png-to-ico": ""
   },
   "engines": {
     "node": "6.10.x"
