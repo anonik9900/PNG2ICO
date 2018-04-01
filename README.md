@@ -1,4 +1,4 @@
-Welcome to PNG2ICO
+Welcome to PNG2ICO :octocat:
 =================
 
 Png2Ico is a free online software allow you to convert all .png image into .ico files 
