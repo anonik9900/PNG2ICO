@@ -3419,3 +3419,31 @@
 			}
 
 	}
+
+  
+input[type="file"]{
+  background-color: white;
+  color: #4fa49a;
+}
+
+::selection{
+  background-color: yellow;
+  color: black;
+}
+
+body::-webkit-scrollbar{
+  width: 7px;
+  background-color: #145C85;
+  border: solid 1px black;
+
+}
+
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #4fa49a;
+  outline: 1px solid slategrey;
+  border: solid 1px white;
+}
